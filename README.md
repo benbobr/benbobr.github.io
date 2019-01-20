@@ -1,2 +1,19 @@
 # benbobr.github.io
-https://www.baidu.com/?tn=simple
+
+1|2
+:---:|:---:
+jwxt|<jwxt>
+baidu|<www.baidu.com/?tn=simple>
+
+
+
+
+
+
+
+
+
+
+
+
+
