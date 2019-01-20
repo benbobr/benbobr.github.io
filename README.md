@@ -17,4 +17,4 @@ jwxt|<jwxt>
 
 
 
-[1]:bing.com
+[1]:https://www.bing.com
